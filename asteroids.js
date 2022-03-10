@@ -1,5 +1,3 @@
-// See license: https://github.com/erkie/erkie.github.com/blob/master/README
-
 (function() {
 function Asteroids() {
 	if ( ! window.ASTEROIDS )
